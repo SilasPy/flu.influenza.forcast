@@ -14,7 +14,3 @@ The first models will include:
 2. A three-week moving average
 3. A recent-trend forecast
 4. Simple linear regression
-
-## Why This Matters
-
-Short-term influenza forecasts may help researchers and public-health professionals anticipate changes in disease activity.
